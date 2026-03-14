@@ -1,11 +1,11 @@
 ---
 title: "Y. Tang"
-image: images/lianyujun_2025.png
+# image: images/*.png
 about:
   id: hero-heading
   template: trestles
-  image-width: 12em
-  image-shape: round
+  # image-width: 12em
+  # image-shape: round
   links:
     - icon: mailbox
       text: tangyu14@alumni.nudt.edu.cn
