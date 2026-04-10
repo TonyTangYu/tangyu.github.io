@@ -18,14 +18,14 @@
     "href": "CV.html",
     "title": "个人简历",
     "section": "",
-    "text": "唐宇，男，助理研究员。2025年6月毕业于国防科技大学计算机科学与技术专业，获博士学位。现为信息支援部队工程大学研究人员。研究方向为大规模深度学习训练，包括模型并行、显存优化、高效训练技术等。\n\n邮箱：tangyu14@alumni.nudt.edu.cn\nGithub: https://github.com/TonyTangYu"
+    "text": "唐宇，男，助理研究员。2025年6月毕业于国防科技大学计算机科学与技术专业，获博士学位。现为信息支援部队工程大学研究人员。研究方向为大规模深度学习训练，包括模型并行、显存优化、高效训练技术等。\n\n邮箱：tangyu14@alumni.nudt.edu.cn\n个人主页: https://tonytangyu.github.io/tangyu.github.io/"
   },
   {
     "objectID": "CV.html#个人简介",
     "href": "CV.html#个人简介",
     "title": "个人简历",
     "section": "",
-    "text": "唐宇，男，助理研究员。2025年6月毕业于国防科技大学计算机科学与技术专业，获博士学位。现为信息支援部队工程大学研究人员。研究方向为大规模深度学习训练，包括模型并行、显存优化、高效训练技术等。\n\n邮箱：tangyu14@alumni.nudt.edu.cn\nGithub: https://github.com/TonyTangYu"
+    "text": "唐宇，男，助理研究员。2025年6月毕业于国防科技大学计算机科学与技术专业，获博士学位。现为信息支援部队工程大学研究人员。研究方向为大规模深度学习训练，包括模型并行、显存优化、高效训练技术等。\n\n邮箱：tangyu14@alumni.nudt.edu.cn\n个人主页: https://tonytangyu.github.io/tangyu.github.io/"
   },
   {
     "objectID": "CV.html#教育背景",
@@ -46,14 +46,14 @@
     "href": "CV.html#研究方向",
     "title": "个人简历",
     "section": "研究方向",
-    "text": "研究方向\n\n大规模深度学习训练\n模型并行与流水线并行\n深度学习显存优化\n分布式训练系统"
+    "text": "研究方向\n\n大规模深度学习训练\n并行与分布式系统\n大模型显存优化\nAI编译优化\nAI for Science"
   },
   {
     "objectID": "CV.html#科研项目",
     "href": "CV.html#科研项目",
     "title": "个人简历",
     "section": "科研项目",
-    "text": "科研项目\n\n湖北省自然科学基金项目B类：面向异构集群的大模型流水线并行加速训练方法 (主持，20万元)\n信心支援部队工程大学创新人才计划：面向大模型高效训练的显存优化方法 (主持，2025.01-2027.12，30万元)"
+    "text": "科研项目\n\n湖北省自然科学基金项目B类：面向异构集群的大模型流水线并行加速训练方法 (主持)\n信息支援部队工程大学创新人才计划：面向大模型高效训练的显存优化方法 (主持)"
   },
   {
     "objectID": "CV.html#学术论文",
@@ -63,18 +63,25 @@
     "text": "学术论文\n\nTang, Y., Li, Q., Yin, L., Li, D., Zhang, Y., Wang, C., Lu, K. (2024). Delta: Memory-efficient training via dynamic fine-grained recomputation and swapping. ACM Transactions on Architecture and Code Optimization, 21(4), 1-25. [SCI, CCF-A]\nTang, Y., Yin, L., Li, Q., Zhu, H., Li, H., Zhang, X., Li, J. (2025). Koala: Efficient Pipeline Training through Automated Schedule Searching on Domain-Specific Language. ACM Transactions on Architecture and Code Optimization, 22(2), 1-25. [SCI, CCF-A]\nTang, Y., Qiao, L., Yin, L., Liang, P., Shen, A., Yang, Z., Li, D. (2025). Training large-scale language models with limited GPU memory: a survey. Frontiers of Information Technology & Electronic Engineering, 26(3), 309-331. [SCI]\nTang, Y., Kan, Z., Sun, D., Qiao, L., Xiao, J., Lai, Z., Li, D. (2020). ADMMiRNN: Training RNN with stable convergence via an efficient ADMM approach. ECML PKDD, 3-18. [CCF-B]\nLiang, P., Tang, Y., Zhang, X., Bai, Y., Su, T., Lai, Z., Li, D. (2023). A survey on auto-parallelism of large-scale deep learning training. IEEE Transactions on Parallel and Distributed Systems, 34(8), 2377-2390. [SCI, CCF-A]"
   },
   {
-    "objectID": "CV.html#学术服务",
-    "href": "CV.html#学术服务",
-    "title": "个人简历",
-    "section": "学术服务",
-    "text": "学术服务\n\n审稿人: ACL、AAAI、ICML\nCCF体系结构专家委员会委员: 中国计算机学会体系结构专委会"
-  },
-  {
     "objectID": "CV.html#获奖荣誉",
     "href": "CV.html#获奖荣誉",
     "title": "个人简历",
     "section": "获奖荣誉",
     "text": "获奖荣誉\n\n2025年 优秀毕业生 国防科技大学\n2025年 国防科技大学青年创新人才方阵 国防科技大学"
+  },
+  {
+    "objectID": "CV.html#竞赛奖励",
+    "href": "CV.html#竞赛奖励",
+    "title": "个人简历",
+    "section": "竞赛奖励",
+    "text": "竞赛奖励\n\n\n\n竞赛名称\n奖项\n\n\n\n\n首届中国研究生操作系统开源创新大赛\n一等奖\n\n\n第九届CCF大数据及计算智算大赛\n三等奖\n\n\n全国大学生集成电路创新创业大赛\n华中赛区二等奖\n\n\niCAN全国选拔赛\n特等奖\n\n\n全国大学生信息安全竞赛\n三等奖"
+  },
+  {
+    "objectID": "CV.html#学术服务",
+    "href": "CV.html#学术服务",
+    "title": "个人简历",
+    "section": "学术服务",
+    "text": "学术服务\n\n审稿人: ACL、AAAI、ICML\nCCF体系结构专家委员会委员: 中国计算机学会体系结构专委会"
   },
   {
     "objectID": "Chinese.html",
