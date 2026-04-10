@@ -55,6 +55,8 @@ I am currently an assistant researcher at the Information Support Force Engineer
 
 - **Liang, P.**, **Tang, Y.**, Zhang, X., Bai, Y., Su, T., Lai, Z., Li, D. (2023). A survey on auto-parallelism of large-scale deep learning training. *IEEE Transactions on Parallel and Distributed Systems*, 34(8), 2377-2390. [SCI, CCF-A]
 
+[View all publications](publications.qmd)
+
 ## Academic Services
 
 - **Reviewer**: ACL, AAAI, ICML
