@@ -4,12 +4,12 @@ editor: visual
 ---
 
 ::: callout-note
-## Links
+<!-- ## Links
 
 > -   **Google Scholar**: https://scholar.google.com
 > -   **ORCID**: https://orcid.org
 >
-> :::
+> ::: -->
 
  
 
@@ -23,12 +23,15 @@ editor: visual
 
 -   **Liang, P.**, **Tang, Y.**, Zhang, X., Bai, Y., Su, T., Lai, Z., Li, D. (2023). A survey on auto-parallelism of large-scale deep learning training. *IEEE Transactions on Parallel and Distributed Systems*, 34(8), 2377-2390. \[SCI, CCF-A\]
 
--   **Tang, Y.**, Kan, Z., Sun, D., Qiao, L., Xiao, J., Lai, Z., Li, D. (2020). ADMMiRNN: Training RNN with stable convergence via an efficient ADMM approach. *ECML PKDD*, 3-18. \[CCF-B\]
-
 -   李东升,**唐宇**,乔林波,等.面向国产平台的大模型训练显存优化技术\[J\].国防科技大学学报,2026,48(2):284-295.<br>LI Dongsheng, TANG Yu, QIAO Linbo,et al.Technologies for memory optimization for large model training on domestic platforms\[J\].Journal of National University of Defense Technology,2026,48(2):284-295.
-
--   Yang, Z., **Tang, Y.**, Qiao, L., Yang, X., & Huang, Z. (2023, July). OLM 2: Automatic Optimal Strategy Generating for Large-Scale Model Training with Limited-Memory. In 2023 IEEE International Conference on Joint Cloud Computing (JCC) (pp. 1-8). IEEE.
 
 -   **Tang, Y.**, Kan, Z., Yin, L., Lai, Z., Zhang, Z., Qiao, L., & Li, D. (2021). Increasing momentum-like factors: A method for reducing training errors on multiple GPUs. Tsinghua Science and Technology, 27(1), 114-126.
 
+
+## 会议论文
+
+-   **Tang, Y.**, Kan, Z., Sun, D., Qiao, L., Xiao, J., Lai, Z., Li, D. (2020). ADMMiRNN: Training RNN with stable convergence via an efficient ADMM approach. *ECML PKDD*, 3-18. \[CCF-B\]
+
 -   **Tang, Y.**, Yin, L., Zhang, Z., & Li, D. (2019, December). Rise the momentum: A method for reducing the training error on multiple GPUs. In International Conference on Algorithms and Architectures for Parallel Processing (pp. 27-41). Cham: Springer International Publishing.
+
+-   Yang, Z., **Tang, Y.**, Qiao, L., Yang, X., & Huang, Z. (2023, July). OLM 2: Automatic Optimal Strategy Generating for Large-Scale Model Training with Limited-Memory. In 2023 IEEE International Conference on Joint Cloud Computing (JCC) (pp. 1-8). IEEE.
