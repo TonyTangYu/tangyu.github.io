@@ -37,6 +37,10 @@ editor:
 
 ## 学术论文
 
+已发表CCF推荐的高水平学术论文20余篇，包括ACL、TACO、TPDS、TC、ECML等高水平国际会议和期刊。
+
+部分论文如下：
+
 - **Tang, Y.**, Li, Q., Yin, L., Li, D., Zhang, Y., Wang, C., Lu, K. (2024). Delta: Memory-efficient training via dynamic fine-grained recomputation and swapping. *ACM Transactions on Architecture and Code Optimization*, 21(4), 1-25. [SCI, CCF-A]
 
 - **Tang, Y.**, Yin, L., Li, Q., Zhu, H., Li, H., Zhang, X., Li, J. (2025). Koala: Efficient Pipeline Training through Automated Schedule Searching on Domain-Specific Language. *ACM Transactions on Architecture and Code Optimization*, 22(2), 1-25. [SCI, CCF-A]

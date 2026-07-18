@@ -11,7 +11,10 @@ editor: visual
 >
 > ::: -->
 
- 
+
+
+
+已发表CCF推荐的高水平学术论文20余篇，包括ACL、TACO、TPDS、TC、ECML等高水平国际会议和期刊。 
 
 ## 期刊论文
 
