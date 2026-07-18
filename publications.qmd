@@ -16,6 +16,8 @@ editor: visual
 
 已发表CCF推荐的高水平学术论文20余篇，包括ACL、TACO、TPDS、TC、ECML等高水平国际会议和期刊。 
 
+部分论文如下：
+
 ## 期刊论文
 
 -   **Tang, Y.**, Li, Q., Yin, L., Li, D., Zhang, Y., Wang, C., Lu, K. (2024). Delta: Memory-efficient training via dynamic fine-grained recomputation and swapping. *ACM Transactions on Architecture and Code Optimization*, 21(4), 1-25. \[SCI, CCF-A\]
