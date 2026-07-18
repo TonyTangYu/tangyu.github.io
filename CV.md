@@ -69,5 +69,5 @@ editor:
 
 ## 学术服务
 
-- **审稿人**: ACL、AAAI、ICML
+- **审稿人**: ACL、AAAI、ICML；AAAI PC
 - **CCF体系结构专家委员会委员**: 中国计算机学会体系结构专委会
