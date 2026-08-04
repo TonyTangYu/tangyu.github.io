@@ -23,7 +23,7 @@ about:
 
 :::: {#hero-heading}
 
-I am currently an assistant researcher at the Information Support Force Engineering University. My research focuses on **large-scale deep learning training**, including model parallelism, memory optimization, and efficient training techniques.
+I am currently an assistant researcher at the Information Support Force Engineering University. My research focuses on **large-scale deep learning training**, including model parallelism, memory optimization, and efficient training techniques. Currently, I have published more than 20 papers in top conferences and journals, including ACL, TACO, TPDS, TC, ECML, etc.
 
 ## Research Interests
 
