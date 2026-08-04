@@ -130,7 +130,7 @@
     "href": "Chinese.html#科研项目",
     "title": "中文简历",
     "section": "科研项目",
-    "text": "科研项目\n\n湖北省自然科学基金项目B类：面向异构集群的大模型流水线并行加速训练方法 (主持)\n信息支援部队工程大学创新人才计划：面向大模型高效训练的显存优化方法 (主持)\n国家杰出青年基金项目：并行与分布式计算 (参与)"
+    "text": "科研项目\n\n湖北省自然科学基金项目B类：面向异构集群的大模型流水线并行加速训练方法 (主持)\n信息支援部队工程大学创新人才计划：面向大模型高效训练的显存优化方法 (主持)\n国家杰出青年基金项目：并行与分布式计算 (参与)\n国防科技重点项目（参与）"
   },
   {
     "objectID": "Chinese.html#学术论文",
@@ -158,7 +158,7 @@
     "href": "Chinese.html#学术服务",
     "title": "中文简历",
     "section": "学术服务",
-    "text": "学术服务\n\n审稿人: ACL、AAAI、ICML；AAAI PC\nCCF体系结构专家委员会委员: 中国计算机学会体系结构专委会"
+    "text": "学术服务\n\n审稿人: ACL、AAAI、ICML\nAAAI PC\nCCF体系结构专委执行委员"
   },
   {
     "objectID": "blog.html",
@@ -193,7 +193,7 @@
     "href": "index.html",
     "title": "Y. Tang",
     "section": "",
-    "text": "tangyu14@alumni.nudt.edu.cn\n  \n  \n    \n     TonyTangYu\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     ORCID\n  \n\n  \n  \nI am currently an assistant researcher at the Information Support Force Engineering University. My research focuses on large-scale deep learning training, including model parallelism, memory optimization, and efficient training techniques.\n\n\n\nLarge-scale Deep Learning Training\nModel Parallelism and Pipeline Parallelism\n\nMemory Optimization for Deep Learning\nDistributed Training Systems\n\n\n\n\n\nPh.D. in Computer Science, National University of Defense Technology, 2021-2025\nM.S. in Computer Science, National University of Defense Technology, 2018-2020\nB.S. in Computer Science, National University of Defense Technology, 2014-2018\n\n\n\n\n\nHubei Provincial Natural Science Foundation: Efficient Pipeline Parallel Training Methods for Large Models on Heterogeneous Clusters (2026.03-2028.03, Principal Investigator)\nInnovation Talent Program: Memory Optimization for Large Model Training (2025.12-2027.11, Principal Investigator)\n\n\n\n\nHave published more than 20 papers in top conferences and journals, including ACL, TACO, TPDS, TC, ECML, etc.\nSome papers are as follows:\n\nTang, Y., Li, Q., Yin, L., Li, D., Zhang, Y., Wang, C., Lu, K. (2024). Delta: Memory-efficient training via dynamic fine-grained recomputation and swapping. ACM Transactions on Architecture and Code Optimization, 21(4), 1-25. [SCI, CCF-A]\nTang, Y., Yin, L., Li, Q., Zhu, H., Li, H., Zhang, X., Li, J. (2025). Koala: Efficient Pipeline Training through Automated Schedule Searching on Domain-Specific Language. ACM Transactions on Architecture and Code Optimization, 22(2), 1-25. [SCI, CCF-A]\nTang, Y., Qiao, L., Yin, L., Liang, P., Shen, A., Yang, Z., Li, D. (2025). Training large-scale language models with limited GPU memory: a survey. Frontiers of Information Technology & Electronic Engineering, 26(3), 309-331. [SCI]\nTang, Y., Kan, Z., Sun, D., Qiao, L., Xiao, J., Lai, Z., Li, D. (2020). ADMMiRNN: Training RNN with stable convergence via an efficient ADMM approach. ECML PKDD, 3-18. [CCF-B]\nLiang, P., Tang, Y., Zhang, X., Bai, Y., Su, T., Lai, Z., Li, D. (2023). A survey on auto-parallelism of large-scale deep learning training. IEEE Transactions on Parallel and Distributed Systems, 34(8), 2377-2390. [SCI, CCF-A]\n\nView all publications\n\n\n\n\nReviewer: ACL, AAAI, ICML; AAAI PC\nCommittee Member: CCF Computer Architecture Specialized Committee"
+    "text": "tangyu14@alumni.nudt.edu.cn\n  \n  \n    \n     TonyTangYu\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     ORCID\n  \n\n  \n  \nI am currently an assistant researcher at the Information Support Force Engineering University. My research focuses on large-scale deep learning training, including model parallelism, memory optimization, and efficient training techniques.\n\n\n\nLarge-scale Deep Learning Training\nModel Parallelism and Pipeline Parallelism\n\nMemory Optimization for Deep Learning\nDistributed Training Systems\n\n\n\n\n\nPh.D. in Computer Science, National University of Defense Technology, 2021-2025\nM.S. in Computer Science, National University of Defense Technology, 2018-2020\nB.S. in Computer Science, National University of Defense Technology, 2014-2018\n\n\n\n\n\nHubei Provincial Natural Science Foundation: Efficient Pipeline Parallel Training Methods for Large Models on Heterogeneous Clusters (2026.03-2028.03, Principal Investigator)\nInnovation Talent Program: Memory Optimization for Large Model Training (2025.12-2027.11, Principal Investigator)\nNational Outstanding Young Scientist: Parallel and Distributed Computing (2021.01-2025.12)\nNational and Defense Technology Project\n\n\n\n\nHave published more than 20 papers in top conferences and journals, including ACL, TACO, TPDS, TC, ECML, etc.\nSome papers are as follows:\n\nTang, Y., Li, Q., Yin, L., Li, D., Zhang, Y., Wang, C., Lu, K. (2024). Delta: Memory-efficient training via dynamic fine-grained recomputation and swapping. ACM Transactions on Architecture and Code Optimization, 21(4), 1-25. [SCI, CCF-A]\nTang, Y., Yin, L., Li, Q., Zhu, H., Li, H., Zhang, X., Li, J. (2025). Koala: Efficient Pipeline Training through Automated Schedule Searching on Domain-Specific Language. ACM Transactions on Architecture and Code Optimization, 22(2), 1-25. [SCI, CCF-A]\nTang, Y., Qiao, L., Yin, L., Liang, P., Shen, A., Yang, Z., Li, D. (2025). Training large-scale language models with limited GPU memory: a survey. Frontiers of Information Technology & Electronic Engineering, 26(3), 309-331. [SCI]\nTang, Y., Kan, Z., Sun, D., Qiao, L., Xiao, J., Lai, Z., Li, D. (2020). ADMMiRNN: Training RNN with stable convergence via an efficient ADMM approach. ECML PKDD, 3-18. [CCF-B]\nLiang, P., Tang, Y., Zhang, X., Bai, Y., Su, T., Lai, Z., Li, D. (2023). A survey on auto-parallelism of large-scale deep learning training. IEEE Transactions on Parallel and Distributed Systems, 34(8), 2377-2390. [SCI, CCF-A]\n\nView all publications\n\n\n\n\nReviewer: ACL, AAAI, ICML\nAAAI PC\nCCF体系结构专委执行委员"
   },
   {
     "objectID": "index.html#research-interests",
@@ -214,7 +214,7 @@
     "href": "index.html#research-projects",
     "title": "Y. Tang",
     "section": "",
-    "text": "Hubei Provincial Natural Science Foundation: Efficient Pipeline Parallel Training Methods for Large Models on Heterogeneous Clusters (2026.03-2028.03, Principal Investigator)\nInnovation Talent Program: Memory Optimization for Large Model Training (2025.12-2027.11, Principal Investigator)"
+    "text": "Hubei Provincial Natural Science Foundation: Efficient Pipeline Parallel Training Methods for Large Models on Heterogeneous Clusters (2026.03-2028.03, Principal Investigator)\nInnovation Talent Program: Memory Optimization for Large Model Training (2025.12-2027.11, Principal Investigator)\nNational Outstanding Young Scientist: Parallel and Distributed Computing (2021.01-2025.12)\nNational and Defense Technology Project"
   },
   {
     "objectID": "index.html#publications",
@@ -228,7 +228,7 @@
     "href": "index.html#academic-services",
     "title": "Y. Tang",
     "section": "",
-    "text": "Reviewer: ACL, AAAI, ICML; AAAI PC\nCommittee Member: CCF Computer Architecture Specialized Committee"
+    "text": "Reviewer: ACL, AAAI, ICML\nAAAI PC\nCCF体系结构专委执行委员"
   },
   {
     "objectID": "readme.html",

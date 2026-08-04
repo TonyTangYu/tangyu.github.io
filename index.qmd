@@ -42,6 +42,10 @@ I am currently an assistant researcher at the Information Support Force Engineer
 
 - **Hubei Provincial Natural Science Foundation**: Efficient Pipeline Parallel Training Methods for Large Models on Heterogeneous Clusters (2026.03-2028.03, Principal Investigator)
 - **Innovation Talent Program**: Memory Optimization for Large Model Training (2025.12-2027.11, Principal Investigator)
+- **National Outstanding Young Scientist**: Parallel and Distributed Computing (2021.01-2025.12)
+- **National and Defense Technology Project**
+
+
 
 ## Publications
 
@@ -63,8 +67,9 @@ Some papers are as follows:
 
 ## Academic Services
 
-- **Reviewer**: ACL, AAAI, ICML; AAAI PC
-- **Committee Member**: CCF Computer Architecture Specialized Committee
+- **Reviewer**: ACL, AAAI, ICML
+- **AAAI PC**
+- **CCF体系结构专委执行委员**
 
 ::::
 
